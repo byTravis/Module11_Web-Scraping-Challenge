@@ -1,6 +1,8 @@
 # Module11_Web-Scraping-Challenge
 Web Scraping - Week 11 - Data Analytics Boot Camp - University of Oregon
 
+![Mars - News and data scraping with Beautiful Soup](images/project-banner.jpg)
+
 
 ## Part 1: Scrape Titles and Preview Text from Mars News
 
@@ -39,13 +41,9 @@ Use automated browsing to visit the [Mars Temperature Data Site](https://static.
   - **Plot the results as a bar chart.**
     - ![Mars Average Pressure per Month](images/Mars-Average-Pressure.png)
 
-- **Q:  About how many terrestrial (Earth) days exist in a Martian year? To answer this question:**
-
-  - **Consider how many days elapse on Earth in the time that Mars circles the Sun once.**
-
-  - **Visually estimate the result by plotting the daily minimum temperature.**
-    - ![Mars Temperature per Earth Day](images/Mars-Temp-Earth-Days.png)
-    - A:  Visually, we can look at the chart and determine where the temperature midpoint lands.  In this case, the midpoint from day 0 matches the midpoint around 650.  A Google search confirms that one Martian year is equivalent to 687 earth days.
+- **Q:  About how many terrestrial (Earth) days exist in a Martian year? Visually estimate the result by plotting the daily minimum temperature.**
+  - ![Mars Temperature per Earth Day](images/Mars-Temp-Earth-Days.png)
+  - A:  Visually, we can look at the chart and determine where the temperature midpoint lands.  In this case, the midpoint from day 0 matches the midpoint around 650.  A Google search confirms that one Martian year is equivalent to 687 earth days.
 
 Once complete, export the website data to a CSV file.
 
