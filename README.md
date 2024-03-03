@@ -17,7 +17,7 @@ Utilize automated browsing to navigate through the [Mars news website](https://s
 
 ### Instructions:
 
-Use automated browsing to visit the [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html).  Extract the weather data from the table on the website and add it to a Pandas DataFrame with the appropiate data type for each column.  Then, answer the following questions:
+Use automated browsing to visit the [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html).  Extract the weather data from the table on the website and add it to a Pandas DataFrame with the appropiate data type for each column.  Once complete, export the website data to a CSV file.  Then, answer the following questions:
 
 - **Q:  How many months exist on Mars?**
   - A:  There are 12 Martian months per Martian year.
@@ -45,6 +45,6 @@ Use automated browsing to visit the [Mars Temperature Data Site](https://static.
   - ![Mars Temperature per Earth Day](images/Mars-Temp-Earth-Days.png)
   - A:  Visually, we can look at the chart and determine where the temperature midpoint lands.  In this case, the midpoint from day 0 matches the midpoint around 650.  A Google search confirms that one Martian year is equivalent to 687 earth days.
 
-Once complete, export the website data to a CSV file.
+
 
 
