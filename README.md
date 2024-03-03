@@ -1,7 +1,7 @@
 # Module 11 - Web Scraping Challenge
 Web Scraping - Week 11 - Data Analytics Boot Camp - University of Oregon
 
-![Mars - News and data scraping with Beautiful Soup](images/project-banner.jpg)
+![Mars - News and data scraping with Beautiful Soup](images/project-title-banner.jpg)
 
 
 ## Part 1: Scrape Titles and Preview Text from Mars News
